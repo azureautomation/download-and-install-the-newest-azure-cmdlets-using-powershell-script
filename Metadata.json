@@ -1,0 +1,20 @@
+{
+    "Author": "Peter Selch Dahl - Azure MVP",
+    "ContentSize": 3135,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/download-and-install-the-newest-azure-cmdlets-using-powershell-script/master/CheckAzurePowerShellAndDownloadLastestVersionv1.2.ps1",
+    "DownloadCount": 1141,
+    "Id": "and-install-the-newest-dcf858d8",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 458,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-4-29T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "PowerShell script will check if you have the latest version of the Azure PowerShell cmdlet from Github (https://github.com/Azure/azure-powershell).It will automatically download and install the latest version of the Azure Powershell from Github.",
+    "Title": "Download and install the newest Azure cmdlets using PowerShell script",
+    "UpdatedDate": "2015-7-20T00:00:00",
+    "Url": "https://github.com/azureautomation/download-and-install-the-newest-azure-cmdlets-using-powershell-script",
+    "UserTags": ""
+}
